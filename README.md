@@ -1,1 +1,1 @@
-GradePredictor is a software that takes in 5 parameters and predicts the grade of a student.
+GradePredictor is a machine learning project that predicts the grades of students based on a linear regression model with parameters including previous grades, no. of failure subjects and study time during the course. The accuracy achieved in this application ranges from approximately 80% to 90%.
